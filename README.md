@@ -1,51 +1,33 @@
-# Enough
-[![Github Stars](https://img.shields.io/github/stars/tingirifistik/Enough)]()
-[![Github Forks](https://img.shields.io/github/forks/tingirifistik/Enough)]() 
-[![Hits](https://hits.sh/github.com/tingirifistik/Enough.svg?label=views&color=007ec6)](https://hits.sh/github.com/tingirifistik/Enough/)
+[![Hits](https://hits.sh/github.com/Bora185/SMS-Bomber.svg?label=views&color=c44ee7)](https://hits.sh/github.com/Bora185/SMS-Bomber/)
+# Z-Bomb [TEKRARDAN AKTİF!]
+Z-Bomb, @tingirifistik tarafından geliştirilen Enough projesinden tarafımca bazı modifikasyonlar, iyileştirmeler yapılarak yayınlandı. Visual Studio Code'da yazıldı.
 
-<img src=https://user-images.githubusercontent.com/51286195/212484738-6abd87d1-d819-429f-845f-9afa83ff1cdb.PNG height="200px" width="400px"/>
-<img src=https://user-images.githubusercontent.com/51286195/209442235-7069b8e7-b3f3-4b70-82cb-a86014836be0.png height="200px" width="400px"/>
+![image](https://user-images.githubusercontent.com/111361998/219316452-70bf568a-1ba0-40cc-b947-34ecfea36354.png)
 
 
-<h2>Replit</h2>
-
-https://replit.com/@tingirifistik/Enough
-
-<h2>Kurulum</h2>
-
-```console
-git clone https://github.com/tingirifistik/Enough.git
-cd Enough
-pip3 install -r requirements.txt
-python3 enough.py
+![2](https://user-images.githubusercontent.com/111361998/214158195-514333d3-a2f1-459e-8009-f5d6a09987f0.png)
+# Gereken Programlar
+- En son Python sürümü
+- GitSCM
+# Kurulum
+Windows için PowerShell'de, Linux dağıtımlarında terminal kullanabilirsiniz.
 ```
+git clone https://github.com/Bora185/Z-Bomb.git
+cd Z-Bomb
+pip3 install -r requirements.txt
+python3 zbomb.py
+```
+# Özellikler
+- Sonsuz SMS desteği
+- Çoklu numara desteği (max 5)
+- 52 Servis (%95 başarı oranı)
+- Servis güncellemeleri
+- Açık kaynak kodlu
+- Ultra gizli
+- Hızlı
+# Yasal uyarı
+Bu programın kullanımından doğabilecek hukuki, cezai ve mali her türlü sorumluluk kullanıcıya aittir.
+# Bilinen Hatalar
+Şuanlık bilinen bir hata yoktur. Eğer bir hataya rastlarsanız 'Issues' bölümünden bildirebilirsiniz.
 
-<h2>Telegram Bot'u ile Kullanmak İçin</h2>
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/tingirifistik/Enough)
-
-<h2>Discord</h2>
-
-Bot'un çalışabilmesi için 'Privileged Gateway Intents' seçeneklerinin hepsinin aktif olması gerekmektedir.
-
-<h2>Discord Selfbot</h2>
-
-**Token bulma:**
-
-1- Tarayıcıdan bot olarak kullanacağınız Discord hesabına giriniz.<br>
-2- Tarayıcı konsolunu açınız.<br>
-3- Ağ trafiği izleme bölümüne geliniz.<br>
-4- Konsolu kapatmadan, Discord'da bu oturum boyunca tıklamadığınız bir sohbete tıklayınız.<br>
-5- Sonu *messages?limit=50* ile biten isteğe tıklayınız.<br>
-6- İsteğin *Header* kısmındaki *Authorization* değeri sizin token'ınızdır.<br>
-7- Bu token'ı *discord-selfbot-enough.py*'de *token* kısmına yazınız. (str olarak)<br>
-
-**Chat Id Bulma:**
-
-1- Bot hesabı ile mesajlaşacağınız kendi orijinal hesabınızdan bot'a bir tane mesaj atınız.<br>
-2- Tarayıcıda Discord'u açın ve bot hesabına giriş yapınız, ardından gerçek hesabınızın üzerine tıklayın.<br>
-3- Url'deki *@me*'den sonraki sayı sizin sohbet id'nizdir.<br>
-4- Bu id'yi *discord-selfbot-enough.py*'de *chat_id* kısmına yazınız. (int olarak)<br><br>
-**Not:** Eğer bot'u Discord sunucusunda kullanacaksanız, *channels*'dan sonra gelen, taksim ile ayrılmış iki sayıdan ikincisi sohbet id'nizdir.
-<br><br>
-<a href="https://www.buymeacoffee.com/tingirifistik" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
